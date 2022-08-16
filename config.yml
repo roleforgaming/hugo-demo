@@ -11,7 +11,7 @@ languages:
         weight: 1
 
 # Change it to your Disqus shortname before using
-disqusShortname: roleforgaming
+disqusShortname: role-for-gaming
 
 # GA Tracking ID
 googleAnalytics:
@@ -64,7 +64,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: roleforgaming
+            shortname: 
             apiUrl: 
             apiKey:
             admin:
