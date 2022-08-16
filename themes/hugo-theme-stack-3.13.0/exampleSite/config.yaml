@@ -1,13 +1,13 @@
-baseurl: "https://roleforgaming.github.io"
+baseurl: https://example.com
 languageCode: en-us
-theme: hugo-theme-stack-3.13.0
+theme: hugo-theme-stack
 paginate: 5
-title: Role For Gaming
+title: Example Site
 
 languages:
     en:
         languageName: English
-        title: Role For Gaming
+        title: Example Site
         weight: 1
     zh-cn:
         languageName: 中文
@@ -20,7 +20,7 @@ languages:
         weight: 3
 
 # Change it to your Disqus shortname before using
-disqusShortname: roleforgaming
+disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
@@ -54,11 +54,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: A blog about indie TTRPGs.
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
-            src: img/logo.png
+            src: img/avatar.png
 
     article:
         math: false
@@ -73,8 +73,8 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: roleforgaming
-            apiUrl: 
+            shortname:
+            apiUrl:
             apiKey:
             admin:
             adminLabel:
@@ -196,9 +196,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/roleforgaming
+          url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com
+          params:
+              icon: brand-twitter
 
 related:
     includeNewer: true
