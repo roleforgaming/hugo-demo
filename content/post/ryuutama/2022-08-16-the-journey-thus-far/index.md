@@ -12,6 +12,7 @@ categories = [
 series = ["Games I've Played"]
 aliases = ["ryuutama-sessions-one-thru-four"]
 image = "cloud-dragon.jpg"
+toc = true
 +++
 
 # Ryuutama
@@ -54,8 +55,14 @@ Pete and Leo return to the fortress walls and Pete is commissioned to take Salva
 
 The PCs did not have to journey long before reaching the city of Dragonroot. 
 
->*We lost the previous town-building mini-game that we did the previous session, so we had to just whip together a cliffsnotes version of what we initially came up with.*
+>*We lost the town-building mini-game that we did the previous session, so we had to just whip together a cliffsnotes version of what we initially came up with.*
 
 Dragonroot is probably the religious capitol of the world. The city is built upon a mountain and ascends to a grand temple assembled on the peak. At the top of the temple is a platform where, for no small amount of money, people could travel upon the back of Nimbus Cloud Dragons to various destinations far away. The PCs were fairly certain Salvatore had traveled here with the princess and that he was going to steal away on a cloud dragon to make it to the Kingdom of Winter.
 
 The streets were incredibly crowded as people wandered from vendor to vendor. Souvenir shops lined each side, each filled to the brim with various items that represented the religion of the city. The party decided to duck into an abandoned alley, running into a shifty looking gentleman. Leo spoke with the man, who told them he had seen Salvatore and the princess pass through. 
+
+Milo left for the crowded streets to pilfer some money and when he returned he began acting a little shifty. He claimed he knew exactly where they needed to go. The party followed the alley until they ended up at a pair of unfathomably large temple doors. Upon entering the temple, Milo closed the doors behind them and fled. The party explored further and found a one way mirror, where they could see out at the front of the temple where tourists gathered. When they turned around, they were approached by two hooded figures.
+
+On was a man, the other was Milo. A dull purple light illuminated Milo's face beneath the hood. He was in possession of the cursed gems yet again. He attacked however Leo cast a bubble spell that encapsulated Milo. The man released a walking egg. The man then fled, leaving Milo and the egg. Milo urged his former companions to take the egg, which he claimed to be a dragon, through a portal within a temple, though he would not say why. The party did just that.
+
+Once crossing through the portal, they faced a vast expanse of wilderness. The were on a floating island and, upon looking down from the precipice, they could see Dragonroot far, far below. They could see the nimbus dragons making their way through the sky. The portal ceased to exist. Looking ahead, they must journey through a dense wilderness the likes of which neither had ever seen, all with a baby dragon yet-hatched in tow.
