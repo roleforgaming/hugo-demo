@@ -12,7 +12,7 @@ links:
   - title: Ryuutama Prime
     description: This is a Cortex Prime sheet I built for Ryuutama.
     website: https://github.com/roleforgaming/hugo-demo/blob/master/static/assets/files/ryuutama-prime-fillable.pdf
-    image: cortextcommunity.png
+    image: cortexcommunity.png
 menu:
     main: 
         weight: -50
