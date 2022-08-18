@@ -2,8 +2,8 @@
 title: Links
 links:
   - title: Ryuutama Prime
-    description: This is a Cortex Prime sheet I built for Ryuutama.
-    website: https://github.com/roleforgaming/hugo-demo/blob/master/static/assets/files/ryuutama-prime-fillable.pdf
+    description: This is my Cortex hack of Ryuutama.
+    website: https://issuu.com/savannahbagby2681/docs/ryuutama_prime_pdf
     image: cortexcommunity.png
 menu:
     main: 

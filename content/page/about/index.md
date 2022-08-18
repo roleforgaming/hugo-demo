@@ -1,34 +1,43 @@
 ---
+
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+
+description: About Savvy
+
+date: '2022-08-16'
+
 aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+
+  - about-us
+
+  - contact
+
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+
+    main:
+
+        weight: -90
+
+        params:
+
+            icon: user
+
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+  
 
-Hugo makes use of a variety of open source projects including:
+# Who Am I?
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My name is Savvy and I'm just a lady who loves TTRPGs (Tabletop RPGs). I run a game at least once a week and have an overwhelming digital library, the majority of which remains untouched.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+  
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+# So What is This?
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+A blog. Duh. Just kidding. This is my attempt at using my Bachelors degree in English/Creative Writing and combining it with my love for TTRPGs. This blog ideally will contain my personal thoughts and musings about different games and systems, as well as contain Actual Plays of solo RPGs and my group games. In the near future we plan on releasing a podcast as well, and you'll be able to find links to that here.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+  
+
+# Get in Touch
+
+If you wanna chat about TTRPGs, join a game I'm running, or you just want to pick my brain, you can contact me on the [Role For Gaming Discord](https://discord.gg/jfJywurUu7).
