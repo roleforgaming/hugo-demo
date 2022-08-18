@@ -14,5 +14,5 @@ menu:
 comments: false
 ---
 
-# Resources
+## Resources
 These are resources I've made for various things involving TTRPGs.
