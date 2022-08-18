@@ -14,4 +14,4 @@ menu:
 comments: false
 ---
 
-# This is a test of the Resource page
+Here you can find various goodies I've created.
