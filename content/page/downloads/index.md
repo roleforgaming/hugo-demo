@@ -11,6 +11,7 @@ menu:
         weight: -90
         params:
             icon: link
+comments: false
 ---
 
 # This is a test of the Resource page
