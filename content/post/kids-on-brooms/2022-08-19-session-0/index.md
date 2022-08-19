@@ -8,8 +8,8 @@ categories = [
 ]
 tags = [
 "session zero"]
-toc = true
-image = index.png
+toc = "true"
+image = "index.png"
 +++
 
 ## Forward
