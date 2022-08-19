@@ -13,9 +13,9 @@ image = "index.png"
 +++
 
 ## Forward
-One of our most favorite games we've played to date off and on over the past couple of years is a Hogwarts RPG called (Witchcraft & Wizardry)[https://www.tablestory.tv/waw/]. It's a PbtA game that we enjoyed many sessions in, however PbtA began to get a little stale for the group. The PbtA framework is great for one-shots, in my opinion, but when it comes to extended campaigns, I found it lacking in variety and character growth. As a GM, I felt as if I ran through a loop of different options and the rolls began to feel inconsequential, so we tabled it and pursued other games in the meantime.
+One of our most favorite games we've played to date off and on over the past couple of years is a Hogwarts RPG called [Witchcraft & Wizardry](https://www.tablestory.tv/waw/). It's a PbtA game that we enjoyed many sessions in, however PbtA began to get a little stale for the group. The PbtA framework is great for one-shots, in my opinion, but when it comes to extended campaigns, I found it lacking in variety and character growth. As a GM, I felt as if I ran through a loop of different options and the rolls began to feel inconsequential, so we tabled it and pursued other games in the meantime.
 
-Well, we've gotten the Harry Potter itch again and I was directed to check out (Kids on Brooms)[https://renegadegamestudios.com/kids-on-brooms/].
+Well, we've gotten the Harry Potter itch again and I was directed to check out [Kids on Brooms](https://renegadegamestudios.com/kids-on-brooms/).
 
 ##  What is Kids On Brooms?
 *Kids on Brooms* is a TTRPG  spinoff of *Kids on Bikes*, an RPG that lets you play kids solving mysteries in your own strange town (think Stranger Things). *Kids on Brooms* is the magic academy equivalent. It is built to focus on the mysteries within the universe you create while simulating the magic academy feel. You build the school collaboratively (we will go more into this below) and the system even includes mechanics that take care of class schedules, which I've found difficult to figure out in my Witchcraft & Wizardry games.
