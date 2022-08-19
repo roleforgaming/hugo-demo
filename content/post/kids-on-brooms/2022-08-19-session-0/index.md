@@ -36,6 +36,12 @@ On the outskirts of the town is an old abandoned mine shaft, barricaded with woo
 
 The shaft burrows into the depths of a mountainside, and if one should enter it, they would find themselves on the other side in a valley, a town nestled in the middle. This town is actually *High Noon Magic Academy.* It is laid out like an old western town, each of the buildings representing a classroom. The mess hall, called *The Watering Hold* lies in the center of the town, looking like a small, old saloon. Upon entering, however, the space expands outwards and upwards to accommodate the school population.
 
+#### The Houses
+- The Gunslinger House founded by Billy the Kid
+- The Tycoon House founded by Bonnie & Clyde
+- The Preacher House founded by Deacon Jim
+- The Doc House founded by Doc Holiday
+
 #### The Headmasters
 The headmaster of the school is a mysterious man called *The Prospector*. Unbeknownst to the students, he is actually a ghost that perished in the mine decades ago, however his spirit still haunts the pickaxe buried in the rock and he is able to manifest himself corporeally as long as he is within a certain range of the haunted item. 
 
