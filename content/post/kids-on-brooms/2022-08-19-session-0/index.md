@@ -34,7 +34,7 @@ One of my favorite things about *Kids on Brooms* is the collaborative nature of 
 
 On the outskirts of the town is an old abandoned mine shaft, barricaded with wood and a white skull painted on a large rock nestled against the opening. When muggles approach it, they get an extreme sense of foreboding that is only relieved by retreat. For any who press on through that feeling, they are struck with terror and their body flees.
 
-The shaft burrows into the depths of a mountainside, and if one should enter it, they would find themselves on the other side in a valley, a town nestled in the middle. This town is actually *High Noon Magic Academy.* It is laid out like an old western town, each of the buildings representing a classroom. The mess hall, called *The Watering Hold* lies in the center of the town, looking like a small, old saloon. Upon entering, however, the space expands outwards and upwards to accommodate the school population.
+The shaft burrows into the depths of a mountainside, and if one should enter it, they would find themselves on the other side in a valley, a town nestled in the middle. This town is actually *Noon High Magic Academy.* It is laid out like an old western town, each of the buildings representing a classroom. The mess hall, called *The Watering Hold* lies in the center of the town, looking like a small, old saloon. Upon entering, however, the space expands outwards and upwards to accommodate the school population.
 
 #### The Houses
 - The Gunslinger House founded by Billy the Kid
