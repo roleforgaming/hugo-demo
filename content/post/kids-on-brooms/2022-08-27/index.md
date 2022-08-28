@@ -7,9 +7,9 @@ categories = [
 "Kids on Brooms"
 ]
 tags = [
-"actual play"
-"fantasy"
-"magic academy"]
+"actual play",
+"fantasy",
+"magic academy",]
 toc = "true"
 +++
 
