@@ -26,7 +26,7 @@ One of my biggest weaknesses as a GM is my indecisiveness, especially when it co
 
 ## Actual Play
 ### Last Time
-Our party of underclassmen traversed the forbidden mines, in search of the rumored cell phone reception which they had been informed of by an upperclassman. Unbeknownst to them,... (Read More)[https://roleforgaming.netlify.app/p/kids-on-brooms/]
+Our party of underclassmen traversed the forbidden mines, in search of the rumored cell phone reception which they had been informed of by an upperclassman. Unbeknownst to them,... [Read More](https://roleforgaming.netlify.app/p/kids-on-brooms/)
 
 ### The Watering Hole
 We found our young wizards, Rhys (played by Pineapple), Jerry (played by Johann), and Mads (played by Bella), having breakfast in **The Watering Hole**. The Watering Hole is basically the mess hall. On the outside it looks like an old saloon, but the swinging doors open up to an infinitely expandable, two story room with enough seating to accommodate every person on campus.
