@@ -1,8 +1,8 @@
 +++
 author = "Savvy"
-title = "Kids on Brooms"
+title = "Kids on Brooms: Session 0 Part 2"
 date = "2022-08-27 09:54:46" 
-description = "Session One of Kids on Brooms:  A Wild West Magic Academy"
+description = "Session Zero of Kids on Brooms:  A Wild West Magic Academy"
 categories = [
 "Kids on Brooms"
 ]

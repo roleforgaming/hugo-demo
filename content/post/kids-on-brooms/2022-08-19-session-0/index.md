@@ -1,6 +1,6 @@
 +++
 author = "Savvy"
-title = "Kids on Brooms"
+title = "Kids on Brooms: Session Zero Part 1"
 date = "2022-08-19 11:16:22"
 description = "Session Zero of Kids on Brooms:  A Wild West Magic Academy"
 categories = [
